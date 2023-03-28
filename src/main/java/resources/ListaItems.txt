@@ -1,0 +1,5 @@
+1	40	jabón en polvo
+3	10	esponjas
+2	100	chocolates
+5	80	desodorante
+2	5000	sabanas dos plazas tamaño queen 100 hilos 
